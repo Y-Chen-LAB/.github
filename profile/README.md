@@ -15,10 +15,10 @@ We are a data science group at Johns Hopkins, led by [Yiqun Chen](https://yiqunc
 
 | | |
 |---|---|
-| 🤖 **AI agents for science** | Benchmarks and pipelines that test whether coding agents can do real scientific analysis, from spatial transcriptomics to causal effect estimation. |
-| 📏 **Statistics for AI** | Valid inference for LLM-as-a-judge evaluation, prediction-powered inference, and power analysis for AI-assisted studies. |
-| 🧬 **LLMs for biology and health** | Language model embeddings for single-cell genomics (GenePT), perturbation prediction, and verbal autopsy for global health. |
-| 🎯 **Selective inference** | Valid p-values for hypotheses that come from the data itself, such as testing after clustering or changepoint detection. |
+| **AI agents for science** | Benchmarks and pipelines that test whether coding agents can do real scientific analysis, from spatial transcriptomics to causal effect estimation. |
+| **Statistics for AI** | Valid inference for LLM-as-a-judge evaluation, prediction-powered inference, and power analysis for AI-assisted studies. |
+| **LLMs for biology and health** | Language model embeddings for single-cell genomics (GenePT), perturbation prediction, and verbal autopsy for global health. |
+| **Selective inference** | Valid p-values for hypotheses that come from the data itself, such as testing after clustering or changepoint detection. |
 
 ### Software
 
